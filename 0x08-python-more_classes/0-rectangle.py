@@ -1,13 +1,9 @@
 #!/usr/bin/python3
 """
-    Rectangle module
-    
-    """
+Write an empty class Rectangle that defines a rectangle
+"""
 
 
 class Rectangle:
-    """
-        Rectangle Class
-        
-        """
+    """An empty class Square that defines a square:"""
     pass
